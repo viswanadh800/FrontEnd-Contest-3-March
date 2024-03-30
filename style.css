@@ -1,0 +1,9 @@
+.footerlast{
+    margin-top: 20px;
+    display: flex;
+    background-color: #f8f9fa;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
